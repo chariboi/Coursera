@@ -1,2 +1,2 @@
 # Coursera
-Module 2 Assignment
+Angular JS
